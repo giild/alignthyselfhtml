@@ -11,3 +11,5 @@ This is a beginner challenge for people new to programming webpages. The github 
  - push the improvements up to github
  - post to the forum and get other people's feedback
 
+### Challenge description
+Visit http://www.giild.net for the full description of the challenge
